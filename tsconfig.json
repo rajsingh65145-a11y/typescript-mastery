@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    // File Layout
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+
+    "module": "commonjs",
+    "target": "esnext",
+    "types": [],
+   
+
+    // Other Outputs
+    "declaration": true,
+
+    
+
+    // Recommended Options
+    "strict": true,
+    
+  }
+}
