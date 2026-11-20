@@ -21,4 +21,3 @@ declare let c3: number;
 declare let a4: number;
 declare let b4: number;
 declare let c4: number;
-declare function add(a: number, b: number): number;

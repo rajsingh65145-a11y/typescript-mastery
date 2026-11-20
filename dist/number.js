@@ -46,7 +46,7 @@ let a4 = 10;
 let b4 = 20;
 let c4 = a4 % b4;
 console.log(c4);
-function add(a, b) {
-    return a + b;
+/*function add(a:number,b:number){
+    return a+b;
 }
-console.log(add(10, 20));
+console.log(add(10,20));*/ 

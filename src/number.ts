@@ -61,7 +61,7 @@ let b4:number=20;
 let c4:number=a4%b4;
 console.log(c4);
 
-function add(a:number,b:number){
+/*function add(a:number,b:number){
     return a+b;
 }
-console.log(add(10,20));
+console.log(add(10,20));*/
