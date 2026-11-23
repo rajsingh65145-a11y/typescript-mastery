@@ -32,3 +32,24 @@ getInfo({
     name: "harsh",
     email: "harsh@.com"
 });
+// instance of class//
+class Dog {
+    bark() {
+        console.log("dog is bark");
+    }
+}
+class Cat {
+    meow() {
+        console.log("cat is meow");
+    }
+}
+function makesound(animal) {
+    if (animal instanceof Dog) {
+        animal.bark();
+    }
+    else {
+        animal.meow();
+    }
+}
+makesound(new Cat());
+makesound(new Dog());
