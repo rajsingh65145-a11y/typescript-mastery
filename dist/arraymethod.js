@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let nmber = [1, 2, 3, 4];
 let db = nmber.map(num => num * 2);
 console.log(db); // original array change nho hoga

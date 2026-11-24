@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let user8 = {
     name: "harsh", // key value pair
     age: 20

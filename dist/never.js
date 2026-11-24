@@ -13,6 +13,7 @@ error("this is an error")  // error throw karna iska kaam hai
 }
 
 infintyloop()*/
+Object.defineProperty(exports, "__esModule", { value: true });
 //void//
 function greed1() {
     console.log("hello world");

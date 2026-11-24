@@ -10,6 +10,7 @@ function vue(
     b:string
 ):string;
  */
+Object.defineProperty(exports, "__esModule", { value: true });
 function bdsm1(a, b) {
     return a + b;
 }

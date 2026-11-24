@@ -1,5 +1,6 @@
 "use strict";
 // ...   is syntax of spread operator//
+Object.defineProperty(exports, "__esModule", { value: true });
 function subnam(...num) {
     console.log(num);
 }

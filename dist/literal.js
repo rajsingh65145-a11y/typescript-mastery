@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let role; // type ban gaya hai
 role = "admin"; // yaha admin ke alawa koi aur s=string nhi aayega//
 console.log(role);

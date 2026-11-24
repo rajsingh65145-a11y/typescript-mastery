@@ -4,6 +4,7 @@
     b:number
     
 )=>number; */
+Object.defineProperty(exports, "__esModule", { value: true });
 function mami(a, b) {
     console.log(a + b);
 }

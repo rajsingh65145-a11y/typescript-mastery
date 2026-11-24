@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const inputfield = document.getElementById("username");
 const btn = document.getElementById("btn");
 btn.addEventListener("click", () => {

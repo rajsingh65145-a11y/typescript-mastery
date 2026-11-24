@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function vijay(name // optional  ho gaya 
 ) {
     console.log(name);

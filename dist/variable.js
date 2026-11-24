@@ -1,5 +1,6 @@
 "use strict";
 //let can="hello";
+Object.defineProperty(exports, "__esModule", { value: true });
 // number type
 let price = 999;
 console.log(price);

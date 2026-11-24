@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function karan(name) {
     console.log("kya re karanwa", name);
 }

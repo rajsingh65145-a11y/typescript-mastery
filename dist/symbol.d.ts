@@ -1,1 +1,1 @@
-declare let token: symbol;
+export {};

@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let boob = {
     name: "harsh",
     age: 20, // interface use kiya

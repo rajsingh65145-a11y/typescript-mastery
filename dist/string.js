@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let pt = "jai ki jai";
 console.log(pt);
 //conatination //

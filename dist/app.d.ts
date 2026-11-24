@@ -1,1 +1,1 @@
-declare let iMessage: string;
+export {};

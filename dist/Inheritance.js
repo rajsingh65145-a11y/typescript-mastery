@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 class Animal {
     name;
     constructor(name) {
@@ -35,3 +36,16 @@ class Dog2 extends Animal1 {
 const dog2 = new Dog2("tommy", "pug");
 dog2.bark();
 console.log(dog2);
+class Emp42 {
+    salary;
+    constructor(salary) {
+        this.salary = salary;
+    }
+}
+class Dev3 extends Emp42 {
+    show() {
+        console.log(this.salary);
+    }
+}
+const dev3 = new Dev3(10000);
+dev3.show();

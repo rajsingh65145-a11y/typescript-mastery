@@ -1,6 +1,7 @@
 "use strict";
 //console.log(Number.MAX_SAFE_INTEGER)
 //let a5:bigint=90000000000000000n;
+Object.defineProperty(exports, "__esModule", { value: true });
 //console.log(a5);
 //let az=BigInt(34523523513);
 //console.log(az);

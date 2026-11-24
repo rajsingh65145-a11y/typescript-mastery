@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let mul1 = function (a, b) {
     return a * b;
 };

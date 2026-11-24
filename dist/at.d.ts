@@ -1,1 +1,1 @@
-declare let username: string;
+export {};

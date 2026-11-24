@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let value1 = "harsh";
 if (typeof value1 === "string") {
     console.log(value1.toUpperCase());

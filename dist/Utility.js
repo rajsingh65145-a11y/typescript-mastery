@@ -1,5 +1,6 @@
 "use strict";
 // partial utility
+Object.defineProperty(exports, "__esModule", { value: true });
 // Sabko update krna hai to Partial use krna hai
 // ye sabko optional krta hai
 const user11 = {

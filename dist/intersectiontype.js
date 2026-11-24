@@ -8,6 +8,7 @@ type Emp={
 }
 
 type Staff= Person&Emp*/
+Object.defineProperty(exports, "__esModule", { value: true });
 let admi = {
     username: "harsh",
     permission: ['read', 'write']

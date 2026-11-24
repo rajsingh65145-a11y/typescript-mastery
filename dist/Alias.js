@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let f2 = "harsh";
 console.log(f2);
 let ages = 40;

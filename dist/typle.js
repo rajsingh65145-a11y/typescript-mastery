@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let ure = ["harsh", 23];
 // oerder important hai phele string hai to string value hi 
 // extra value bhi nhi kam value bhi nhi 

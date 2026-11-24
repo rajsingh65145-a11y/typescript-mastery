@@ -2,6 +2,7 @@
 /*let hss=[12,33,44];
 console.log(hss);
 */
+Object.defineProperty(exports, "__esModule", { value: true });
 //in type script
 let mrk = [320, 340, 20];
 console.log(mrk);

@@ -1,5 +1,6 @@
 "use strict";
 //Record<Keys,vakueType>
+Object.defineProperty(exports, "__esModule", { value: true });
 const userRole = {
     admin: "admin ka lawda",
     user: "user ka lawda",

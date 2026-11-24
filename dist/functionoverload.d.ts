@@ -9,5 +9,4 @@ function vue(
     b:string
 ):string;
  */
-declare function bdsm1(a: any, b: any): any;
-declare function search1(value: any): string;
+export {};

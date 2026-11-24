@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let userds = 'harsh'; // ye automatically ise string hi de dega with the power of inference
 console.log(userds);
 let bd = 123;

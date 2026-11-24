@@ -1,5 +1,6 @@
 "use strict";
 // public modifire//
+Object.defineProperty(exports, "__esModule", { value: true });
 class User05 {
     name;
     age;

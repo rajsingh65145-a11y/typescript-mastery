@@ -4,6 +4,7 @@
         parameter:type
     ):return type;
 } */
+Object.defineProperty(exports, "__esModule", { value: true });
 let mug = function (a, b) {
     return a + b;
 };
