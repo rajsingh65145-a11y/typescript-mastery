@@ -19,6 +19,7 @@
     // Recommended Options
     "strict": true,
     "experimentalDecorators": true,
+    "sourceMap": true,
     
   }
 }

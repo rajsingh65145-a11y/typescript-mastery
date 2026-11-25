@@ -45,3 +45,18 @@ class bak1{
 }
 
 // parameter decorator
+
+function LogParameter(
+    target:any,
+    propertyKey:string,
+    parameterIndex:number
+){
+    console.log(`Parameter:${parameterIndex}`);
+}
+
+class bak2{
+    login(
+    @LogParameter
+    username:string
+    ){}
+}
